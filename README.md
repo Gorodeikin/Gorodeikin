@@ -57,6 +57,7 @@
             <img src="https://github.com/user-attachments/assets/744de071-38d5-4ed7-989e-347cb98d56cf" alt="Grid" width="60" height="60"/>
             <br>Grid
         </td>
+    -->
         <td align="center" width="80">
             <img src="https://github.com/user-attachments/assets/cb649c23-f0d0-40bd-8f2c-5db9ee3ee833" alt="Vercel" width="60" height="60"/>
             <br>Vercel
@@ -65,7 +66,6 @@
             <img src="https://github.com/user-attachments/assets/ba5261a3-c645-412e-b4d8-41ada3a2296e" alt="Vite" width="60" height="60"/>
             <br>Vite
         </td>
--->
         <td align="center" width="80">
             <img src="https://github.com/user-attachments/assets/709c539d-32c6-4d06-9a16-cb2341b5186d" alt="Visual Studio Code" width="100" height="100"/>
             <br>VSCode
