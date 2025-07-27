@@ -9,21 +9,19 @@
             <img src="https://github.com/user-attachments/assets/4b339263-74e9-4657-8282-7c80e0d21f85" alt="CSS3" width="100" height="100"/>
             <br>CSS3
         </td>
-<!--
         <td align="center" width="80">
             <img src="https://github.com/user-attachments/assets/89a9fcb1-4491-4576-b67d-7af68b88d28c" alt="React.js" width="60" height="60"/>
             <br>React.js
         </td>
--->
         <td align="center" width="80">
             <img src="https://github.com/user-attachments/assets/571357ca-9076-4fa2-9b5e-21e39586b06d" alt="JS" width="100" height="100"/>
             <br>JavaScript
         </td>
-<!--
         <td align="center" width="80">
             <img src="https://github.com/user-attachments/assets/777bc6cd-54ba-4981-9861-dfdf7fe4233b" alt="TS" width="60" height="60"/>
             <br>TypeScript
         </td>
+        <!--
         <td align="center" width="80">
             <img src="https://github.com/user-attachments/assets/11e0d00d-ca0f-48c5-bce1-3876fc4c474f" alt="Node.js" width="60" height="60"/>
             <br>Node.js
